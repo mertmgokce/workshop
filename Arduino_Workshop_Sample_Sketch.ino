@@ -1,7 +1,4 @@
-/* 
-by Burak Aykan - IBM Cloud Ecosystem Developer
-   e-mail: burak.aykan@tr.ibm.com
-*/
+
 
 #include <SPI.h>
 #include <YunClient.h>
